@@ -8,7 +8,7 @@
  * :penguin:[양선경](https://github.com/ohMySunset): 나눔게시판&마이페이지
  * :whale2:[이도경](https://github.com/dkaylee): 비건맛집
  * :honeybee:[정수인](https://github.com/JeongSuIn) : 도보인증
- * :panda_face:[최지혜](https://github.com/choejh) : 로그인/회원가입
+ * :panda_face:[최지혜](https://github.com/choejh) : 로그인/회원가입/노하우 게시판
  * :turtle:[한주량](https://github.com/JuRyang) : 텀블러 인증
 
 # 1. 기술 스택
