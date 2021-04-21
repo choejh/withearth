@@ -48,7 +48,7 @@
 ![슬라이드12](https://user-images.githubusercontent.com/71997987/114337596-580e7000-9b8c-11eb-9a15-29136b126436.JPG)
 
 
-# 3. 로그인/회원가입
+# 3. 로그인/회원가입/노하우 공유 게시판
 ![슬라이드16](https://user-images.githubusercontent.com/71997987/114337432-0d8cf380-9b8c-11eb-8ff5-3bfac6850b3a.JPG)
 ![슬라이드17](https://user-images.githubusercontent.com/71997987/114337435-0e258a00-9b8c-11eb-89d3-f9dd24ffc70c.JPG)
 ![슬라이드18](https://user-images.githubusercontent.com/71997987/114337436-0f56b700-9b8c-11eb-8aa9-a4843fb8687f.JPG)
@@ -58,6 +58,8 @@
 ![슬라이드22](https://user-images.githubusercontent.com/71997987/114337444-1087e400-9b8c-11eb-9721-1bd1b0ccecfc.JPG)
 ![슬라이드23](https://user-images.githubusercontent.com/71997987/114337446-1087e400-9b8c-11eb-991e-85b68cbe9759.JPG)
 ![슬라이드24](https://user-images.githubusercontent.com/71997987/114337449-11207a80-9b8c-11eb-9d3f-c96231f4e23b.JPG)
+![내 부분만1](https://user-images.githubusercontent.com/71997987/115502892-9a346180-a2b0-11eb-8cda-cc9ffde0c010.png)
+![내 부분만2](https://user-images.githubusercontent.com/71997987/115502907-9d2f5200-a2b0-11eb-9a67-d263f504dfea.png)
 
 
 
